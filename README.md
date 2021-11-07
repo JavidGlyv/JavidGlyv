@@ -1,12 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Javid</h1>
+
+I am 22 years old Machine Learning practitioner based on Baku, Azerbaijan. Currently I am M.Sc. student in Data Science and AI at UFAZ (Strasbourg University and ASOIU).
+
+I believe that machine learning can support any company in any area at any time.
+
+## 🔗 Connect with me 
+<a href="https://twitter.com/cavidqlyv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cavidqlyv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## ⚡Technologies 
+I believe that one should not have a fixed technology stack, but should always respond to the needs and problems of the customer. Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
+
+**🤖 Machine Learning**  
+Scikit-Learn, Python, Pandas, Numpy, Seaborn
+
+**🏗️ Non-ML Frameworks**  
+C#, Asp.Net Core, Vue, Angular, 
+
 
 <!--
-**cavidqlyv/cavidqlyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Upcoming topics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
