@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javid</h1>
 
-I am 22 years old Machine Learning practitioner based on Baku, Azerbaijan. Currently I am M.Sc. student in Data Science and AI at UFAZ (Strasbourg University and ASOIU).
+I am 22 years old Machine Learning practitioner based on Baku, Azerbaijan. Currently I am M.Sc. student in Data Science and AI at UFAZ (Strasbourg University (France) and ASOIU (Azerbaijan)).
 
 I believe that machine learning can support any company in any area at any time.
 
@@ -12,10 +12,16 @@ I believe that machine learning can support any company in any area at any time.
 I believe that one should not have a fixed technology stack, but should always respond to the needs and problems of the customer. Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
 
 **🤖 Machine Learning**  
-Scikit-Learn, Python, Pandas, Numpy, Seaborn
+Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
 
 **🏗️ Non-ML Frameworks**  
-C#, Asp.Net Core, Vue, Angular, 
+Web:
+* C#, Asp.Net Core, Vue, Angular
+Container:
+* Docker
+Database:
+* SQL - MsSql/SQLite
+
 
 
 <!--
