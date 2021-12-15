@@ -12,7 +12,7 @@ I believe that machine learning can support any company in any area at any time.
 I believe that one should not have a fixed technology stack, but should always respond to the needs and problems of the customer. Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
 
 **🤖 Machine Learning**  
-Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
+Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
 
 **🏗️ Non-ML Frameworks**  
 Web:
