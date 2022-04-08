@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javid</h1>
 
-I am 22 years old Machine Learning practitioner based on Baku, Azerbaijan. Currently I am M.Sc. student in Data Science and AI at UFAZ (Strasbourg University (France) and ASOIU (Azerbaijan)).
+I'm a 23 years old Data Science Researcher based in Strasbourg, France. I'm pursuing my master's in Data Science and Artificial Intelligence at UFAZ university and working as Data Science Researcher at ICube Laboratory. I had worked as a developer in the past and have good knowledge of programming. Have knowledge in the development field. I have soft skills as a quick learner, multitask performer, and team player. I'm skilled in Python, SQL, C#, statistics, some machine learning algorithms, and strong programming background.
 
 I believe that machine learning can support any company in any area at any time.
 
