@@ -8,8 +8,19 @@ I believe that machine learning can support any company in any area at any time.
 <a href="https://twitter.com/cavidqlyv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cavidqlyv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
 
+
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+I star repos that are interesting & potentially usefull to me. I even try to organize them into lists now! 
+<!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cceyda&title=Stars&no-bg=true&no-frame=true)](https://github.com/cceyda?tab=stars) -->
+
+![githubstats](https://github-readme-stats.vercel.app/api?username=cceyda&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
+![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cceyda&layout=compact&hide_border=true)
+
+
 ## ⚡Technologies 
-I believe that one should not have a fixed technology stack, but should always respond to the needs and problems of the customer. Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
+Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
 
 **🤖 Machine Learning**  
 Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
