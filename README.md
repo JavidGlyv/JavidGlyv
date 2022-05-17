@@ -20,7 +20,7 @@ I star repos that are interesting & potentially usefull to me. I even try to org
 <!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cavidqlyv&title=Stars&no-bg=true&no-frame=true)](https://github.com/cavidqlyv?tab=stars) -->
 
 [![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavidqlyv&theme=onedark)](https://github.com/cavidqlyv/github-readme-stats)
-![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavidqlyv&layout=compact&hide_border=true)
+![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavidqlyv&layout=compact&hide_border=true&theme=onedark)
 
 
 **🤖 Machine Learning**  
