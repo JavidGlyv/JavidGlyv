@@ -9,18 +9,19 @@ I believe that machine learning can support any company in any area at any time.
 <a href="https://www.linkedin.com/in/cavidqlyv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
 
 
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-I star repos that are interesting & potentially usefull to me. I even try to organize them into lists now! 
-<!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cceyda&title=Stars&no-bg=true&no-frame=true)](https://github.com/cceyda?tab=stars) -->
-
-[![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavidqlyv&theme=onedark)](https://github.com/cavidqlyv/github-readme-stats)
-![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavidqlyv&layout=compact&hide_border=true)
 
 
 ## ⚡Technologies 
 Below is just an excerpt and my favorite technologies in machine learning and non-ML frameworks.
+
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+I star repos that are interesting & potentially usefull to me. I even try to organize them into lists now! 
+<!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cavidqlyv&title=Stars&no-bg=true&no-frame=true)](https://github.com/cavidqlyv?tab=stars) -->
+
+[![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavidqlyv&theme=onedark)](https://github.com/cavidqlyv/github-readme-stats)
+![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavidqlyv&layout=compact&hide_border=true)
+
 
 **🤖 Machine Learning**  
 Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
@@ -34,4 +35,4 @@ Database:
 * SQL - MsSql/SQLite
 
 
-![](https://komarev.com/ghpvc/?username=cavidqlyv&color=green&style=flat-square&label=👁️)
+![](https://komarev.com/ghpvc/?username=cavidqlyv&color=green&style=flat-square&label=👀)
