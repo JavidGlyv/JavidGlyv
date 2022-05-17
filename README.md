@@ -15,7 +15,7 @@ I believe that machine learning can support any company in any area at any time.
 I star repos that are interesting & potentially usefull to me. I even try to organize them into lists now! 
 <!-- [![Streamlit](https://github-profile-trophy.vercel.app/?username=cceyda&title=Stars&no-bg=true&no-frame=true)](https://github.com/cceyda?tab=stars) -->
 
-![githubstats](https://github-readme-stats.vercel.app/api?username=cavidqlyv&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
+[![Javid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavidqlyv&theme=onedark)](https://github.com/cavidqlyv/github-readme-stats)
 ![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavidqlyv&layout=compact&hide_border=true)
 
 
