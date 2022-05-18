@@ -24,15 +24,15 @@ I star repos that are interesting & potentially usefull to me. I even try to org
 
 
 **🤖 Machine Learning**  
-Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn, SQLAlchemy
+Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn
 
 **🏗️ Non-ML Frameworks**  
 Web:
-* C#, Asp.Net Core, Vue, Angular
-Container:
-* Docker
+* flusk, C#, Asp.Net Core, Vue, Angular
+DevOps Tools:
+* Docker, Git
 Database:
-* SQL - MsSql/SQLite
+*  MsSql, SQLite
 
 
 ![](https://komarev.com/ghpvc/?username=cavidqlyv&color=green&style=flat-square&label=👀)
