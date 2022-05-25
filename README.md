@@ -27,11 +27,11 @@ Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn
 
 **🏗️ Non-ML Frameworks**  
 Web:
-* flusk, C#, Asp.Net Core, Vue, Angular
+  flusk, C#, Asp.Net Core, Vue, Angular
 DevOps Tools:
-* Docker, Git
+  Docker, Git
 Database:
-*  MsSql, SQLite
+  MsSql, SQLite
 
 
 ![](https://komarev.com/ghpvc/?username=cavidqlyv&color=green&style=flat-square&label=👀)
