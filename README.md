@@ -29,9 +29,11 @@ Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn
 Web:
 <br />
 &ensp;&ensp;flusk, C#, Asp.Net Core, Vue, Angular
+<br />
 DevOps Tools:
 <br />
 &ensp;&ensp;Docker, Git
+<br />
 Database:
 <br />
 &ensp;&ensp;MsSql, SQLite
