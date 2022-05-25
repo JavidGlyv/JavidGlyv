@@ -27,10 +27,13 @@ Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn
 
 **🏗️ Non-ML Frameworks**  
 Web:
+<br />
 &ensp;&ensp;flusk, C#, Asp.Net Core, Vue, Angular
 DevOps Tools:
+<br />
 &ensp;&ensp;Docker, Git
 Database:
+<br />
 &ensp;&ensp;MsSql, SQLite
 
 
