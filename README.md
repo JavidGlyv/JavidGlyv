@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Javid</h1>
 
-I'm a 23 years old Data Science Researcher based in Strasbourg, France. I'm pursuing my master's in Data Science and Artificial Intelligence at UFAZ university and working as Data Science Researcher at ICube Laboratory. I had worked as a developer in the past and have good knowledge of programming. Have knowledge in the development field. I have soft skills as a quick learner, multitask performer, and team player. I'm skilled in Python, SQL, C#, statistics, some machine learning algorithms, and strong programming background.
-
-I believe that machine learning can support any company in any area at any time.
-
 ## 🔗 Connect with me 
 <a href="https://www.linkedin.com/in/cavidqlyv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
 <a href="https://twitter.com/cavidqlyv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 
 
 ## ⚡Technologies 
@@ -24,19 +19,5 @@ I star repos that are interesting & potentially usefull to me. I even try to org
 
 **🤖 Machine Learning**  
 Keras, Scikit-Learn, Python, Pandas, Numpy, Seaborn
-
-**🏗️ Non-ML Frameworks**  
-Web:
-<br />
-&ensp;&ensp;flusk, C#, Asp.Net Core, Vue, Angular
-<br />
-DevOps Tools:
-<br />
-&ensp;&ensp;Docker, Git
-<br />
-Database:
-<br />
-&ensp;&ensp;MsSql, SQLite
-
 
 ![](https://komarev.com/ghpvc/?username=cavidqlyv&color=green&style=flat-square&label=👀)
