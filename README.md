@@ -1,4 +1,4 @@
-<img src="GHbanner.png"/>
+<img src="LinkedIn Banner.png"/>
 
 # Welcome to my GitHub! 
 
