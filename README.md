@@ -4,7 +4,7 @@
 
 ### Hi, I'm Javid! 
 
-I am a **Machine Learning Engineer** at **ABB**.
+I am a **Machine Learning Engineer.
 
 My areas of expertise include **Machine Learning**, **Deep Learning**, **Data Visualization**, **Computer Vision**, **Linear and Hierarchical Regression**, **Classification, Clustering**, **Recommendation Systems**, **Decision Trees**, **Neural Networks**, and **Network Analyses**. I am a motivated and hardworking person who always looks for any chance to grip and grasp to expand my knowledge and operational skills and I want to take advantage of all opportunities to reach goals.
 
