@@ -6,9 +6,7 @@
 
 I am a **Machine Learning Engineer**.
 
-My areas of expertise include **Machine Learning**, **Deep Learning**, **Data Visualization**, **Computer Vision**, **Linear and Hierarchical Regression**, **Classification, Clustering**, **Recommendation Systems**, **Decision Trees**, **Neural Networks**, and **Network Analyses**. I am a motivated and hardworking person who always looks for any chance to grip and grasp to expand my knowledge and operational skills and I want to take advantage of all opportunities to reach goals.
-
-I love this field and love to connect with those in it! Please feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/cavidqlyv/). 
+I love to connect with those in it! Please feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/cavidqlyv/). 
 
 Thanks and hope to talk soon!
 
